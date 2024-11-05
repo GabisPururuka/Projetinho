@@ -1,3 +1,15 @@
+body{
+  color: aquamarine;
+  background: black ;
+  font-family: "Source Code Pro", monospace;
+  margin: 0px;
+  margin-bottom: 100px;
+
+}
+
+
+
+
 .chamada{
   background: #a6a6c9;
   margin-top: 88px;
