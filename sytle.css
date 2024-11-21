@@ -1,5 +1,5 @@
 body{
-  color: aquamarine;
+  color: rgb(255, 200, 127);
   background: black ;
   font-family: "Source Code Pro", monospace;
   margin: 0px;
@@ -11,7 +11,7 @@ body{
 
 
 .chamada{
-  background: #a6a6c9;
+  background: #dd2727de;
   margin-top: 88px;
   margin-bottom: 88px;
   display: flex;
